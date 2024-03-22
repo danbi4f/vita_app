@@ -16,3 +16,36 @@ Additionally, in the future, I plan to expand the functionality of the applicati
 
 links:
 https://fdc.nal.usda.gov/download-datasets.html
+
+## Screenshots
+
+Here are some screenshots from the application:
+
+![Screenshot 1](screen_app/Screenshot_20240322-105224.jpg)
+*search screen*
+
+![Screenshot 2](screen_app/Screenshot_20240322-105312.jpg)
+*favorites screen*
+
+![Screenshot 3](screen_app/Screenshot_20240322-105324.jpg)
+*details ingredient*
+
+![Screenshot 4](screen_app/Screenshot_20240322-105530.jpg)
+*add new recipe*
+
+![Screenshot 5](screen_app/Screenshot_20240322-105541.jpg)
+*recipes screen*
+
+![Screenshot 6](screen_app/Screenshot_20240322-105557.jpg)
+*details recipe*
+
+
+
+
+
+
+
+
+
+
+
