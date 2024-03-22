@@ -1,0 +1,48 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "vita_app\\assets\\",
+            "color": "foldercolorizer.Gold"
+        },
+        {
+            "folderPath": "vita_app\\lib\\common\\",
+            "color": "foldercolorizer.PurpleMedium"
+        },
+        {
+            "folderPath": "vita_app\\lib\\features\\1_search\\",
+            "color": "foldercolorizer.DodgerBlue"
+        },
+        {
+            "folderPath": "vita_app\\lib\\features\\3_meals\\",
+            "color": "foldercolorizer.DodgerBlue"
+        },
+        {
+            "folderPath": "vita_app\\lib\\",
+            "color": "foldercolorizer.White"
+        },
+        {
+            "folderPath": "vita_app\\lib\\features\\1_search\\provider\\survey_foods_search_provider.dart\\",
+            "color": "foldercolorizer.yellow"
+        },
+        {
+            "folderPath": "vita_app\\lib\\features\\1_search\\provider\\",
+            "color": "foldercolorizer.yellow"
+        },
+        {
+            "folderPath": "vita_app\\lib\\common\\repository\\",
+            "color": "foldercolorizer.CarrotOrange"
+        },
+        {
+            "folderPath": "vita_app\\lib\\main.dart\\",
+            "color": "foldercolorizer.White"
+        },
+        {
+            "folderPath": "vita_app\\lib\\features\\",
+            "color": "foldercolorizer.blue"
+        },
+        {
+            "folderPath": "vita_app\\lib\\common\\repository\\data\\local_database.dart\\",
+            "color": "foldercolorizer.OrangeRed"
+        }
+    ]
+}
